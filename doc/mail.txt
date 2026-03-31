@@ -1,0 +1,1 @@
+SA="cr-expense-classifier@vertex-ai-apps-script-488713.iam.gserviceaccount.com"
